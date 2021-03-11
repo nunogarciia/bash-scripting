@@ -1,0 +1,2 @@
+With this command "cat > file.txt" I can write directly to the file!
+Ctrl+D or Enter+Ctrl+C to Save
